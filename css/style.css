@@ -2400,6 +2400,12 @@ span.email-notes {
   padding-top: 30px;
 }
 
+.terms-condition {
+  font-size: 18px;
+  line-height: 1.7;
+  font-weight: 600;
+}
+
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
